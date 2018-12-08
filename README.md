@@ -1,1 +1,1 @@
-"# dominant-set"  
+# dominant-set
